@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# PDF output
+*.pdf
+
+# LaTeX aux files (if you're using LaTeX)
+*.aux
+*.log
+*.out
+*.toc
+
+# VSCode settings (opcional)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
